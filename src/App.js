@@ -1,6 +1,6 @@
 import { TextGenerateEffect } from './components/ui/text-generate-effect.tsx';
 import { FloatingNav } from "./components/ui/floating-navbar.tsx";
-import { IconHome, IconMessage, IconUser } from "@tabler/icons-react";
+import { IconHome, IconMessage, IconTools, IconUser, IconHistory } from "@tabler/icons-react";
 import { BackgroundGradientAnimation } from './components/ui/background-gradient-animation.tsx';
 import { About } from './components/About.tsx';
 import { Skills } from './components/Skills.tsx';
@@ -19,18 +19,18 @@ function App() {
     {
       name: "About",
       link: "#about",
-      icon: <IconHome className="h-4 w-4 text-neutral-500 dark:text-white" />,
+      icon: <IconUser className="h-4 w-4 text-neutral-500 dark:text-white" />,
     },
     {
       name: "Skills",
       link: "#skills",
-      icon: <IconUser className="h-4 w-4 text-neutral-500 dark:text-white" />,
+      icon: <IconTools className="h-4 w-4 text-neutral-500 dark:text-white" />,
     },
     {
       name: "Experience",
       link: "#experience",
       icon: (
-        <IconMessage className="h-4 w-4 text-neutral-500 dark:text-white" />
+        <IconHistory className="h-4 w-4 text-neutral-500 dark:text-white" />
       ),
     },
     {

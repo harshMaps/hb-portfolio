@@ -12,5 +12,4 @@ module.exports = {
 
     return config;
   },
-  distDir: 'build' // Specify the custom output directory
 };

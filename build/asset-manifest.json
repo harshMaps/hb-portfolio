@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cd8c77b.css",
+    "main.js": "/static/js/main.929c751f.js",
+    "static/js/206.93f4ef18.chunk.js": "/static/js/206.93f4ef18.chunk.js",
+    "static/media/leidos logo.jpg": "/static/media/leidos logo.0dfed042ba3c665d9aac.jpg",
+    "static/media/me-pic.jpeg": "/static/media/me-pic.17f1a1d460d80396d2a7.jpeg",
+    "static/media/uva logo.png": "/static/media/uva logo.e5ef5c0c8e8b5befd0aa.png",
+    "static/media/tmobile logo.png": "/static/media/tmobile logo.ace91c6d829ae2c247e5.png",
+    "static/media/american express logo.png": "/static/media/american express logo.75cbc93c8c29a9d709e7.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3cd8c77b.css",
+    "static/js/main.929c751f.js"
+  ]
+}
